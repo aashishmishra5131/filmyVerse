@@ -1,5 +1,3 @@
-
-
 import React, { useContext, useState } from "react";
 import { TailSpin } from "react-loader-spinner";
 import { addDoc } from "firebase/firestore";
